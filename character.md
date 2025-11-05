@@ -329,7 +329,7 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 
 - **Hoid (Wit)**  
   - First Appearance: *Elantris* (cameo), major in *Stormlight Archive*  
-  - Powers: Lightweaving, Yolish tricks, worldhopping  
+  - Powers: Lightweaving (Yolish and Rosharan versions), Worldhopping, Allomancy (Full Mistborn), Awakening (Heightenings/Breaths), Surgebinding (Illumination/Soulcasting), Functional Immortality, Regeneration, and Fortune/Plot Detection, all while restricted by a Dawnshard Limtation (cannot directly harm).
   - Tidbit: Trickster storyteller, meddles across worlds, always present at key moments.
 
 - **Khrissalla (Scholar)**  
