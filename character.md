@@ -307,7 +307,7 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 -**Tress (Pirate Girl)**
   - First Appearance: *Tress of The Emerald Sea*
   - Powers: Aether Spore Manipulation
-  - Tidbit: 
+  - Tidbit: Acustomed to the sea, Tress is an expert at Aether Spores!
 
 -****
   - First Appearance: **
