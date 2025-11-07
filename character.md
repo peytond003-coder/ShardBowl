@@ -1,4 +1,4 @@
-# 🌌 Cosmere Character File (Expanded)
+# 🌌 Cosmere Character File 
 
 Each entry = one form of a character, with origin, first appearance, powers, and a short lore tidbit.
 
