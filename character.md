@@ -238,7 +238,7 @@ Each entry = one form of a character, with origin, first appearance, powers, and
   - Powers: Returned, thousands of Breaths  
   - Tidbit: Mute and sheltered, but kind and powerful once freed.
 
-- **Night Blood (Sword)**
+- **NightBlood (Sword)**
   - First Appearance: *Warbreaker*
   - Powers: **Investiture Consumption**, **Total Annihilation** (across all three Realms), **Sentience/Telepathy**
   - Tidbit: Highly Invested sword created with the command "Destroy Evil"; constantly leaks black smoke and is dangerously *even* to its wielder.
